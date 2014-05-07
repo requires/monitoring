@@ -26,3 +26,7 @@ paramiko==1.10.7    # rq.filter: >=1.10, <1.11
 # PyCrypto - The Python Cryptography Toolkit
 #   Changelog: https://www.dlitz.net/software/pycrypto/
 pycrypto==2.6.1
+
+# PyYAML
+#   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
+pyyaml==3.11
