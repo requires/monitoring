@@ -39,6 +39,10 @@ pillow==2.4.0
 #   Changelog: https://www.dlitz.net/software/pycrypto/
 pycrypto==2.6.1
 
+# PyMongo
+#   Changelog: http://api.mongodb.org/python/current/changelog.html
+pymongo==2.7
+
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
 pyyaml==3.11
