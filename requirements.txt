@@ -24,6 +24,10 @@ flask==0.10.1
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
 graphite-web==0.9.12
 
+# Keyring
+#   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
+keyring==3.7
+
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==1.14.0
