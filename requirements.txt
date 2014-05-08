@@ -56,3 +56,8 @@ pyyaml==3.11
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
 #   Note: replaces obsolete distribute
 setuptools==3.6
+
+# SQLAlchemy
+#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
+#   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
+sqlalchemy==0.9.4
