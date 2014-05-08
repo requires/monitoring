@@ -20,6 +20,10 @@ djangorestframework==2.3.13
 #   Changelog: http://flask.pocoo.org/docs/changelog/
 flask==0.10.1
 
+# Graphite
+#   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
+graphite-web==0.9.12
+
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==1.14.0
