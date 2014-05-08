@@ -37,6 +37,7 @@ paramiko==1.11.6    # rq.filter: >=1.11, <1.12
 
 # Pillow
 #   Changelog: https://github.com/python-imaging/Pillow/blob/master/CHANGES.rst
+#   Note: replaces obsolete PIL
 pillow==2.4.0
 
 # PyCrypto - The Python Cryptography Toolkit
@@ -53,4 +54,5 @@ pyyaml==3.11
 
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
+#   Note: replaces obsolete distribute
 setuptools==3.6
