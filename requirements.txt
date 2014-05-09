@@ -12,11 +12,6 @@ django==1.4.12  # rq.filter: >=1.4, <1.5
 #   Changelog: https://django-tastypie.readthedocs.org/en/latest/release_notes/index.html
 django-tastypie==0.11.0
 
-# Tornado
-#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
-#   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==3.2.1
-
 # Django REST framework
 #   Changelog: http://www.django-rest-framework.org/topics/release-notes
 djangorestframework==2.3.13
@@ -66,3 +61,8 @@ setuptools==3.6
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
 sqlalchemy==0.9.4
+
+# Tornado
+#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
+#   Changelog: http://www.tornadoweb.org/en/stable/releases.html
+tornado==3.2.1
