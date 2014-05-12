@@ -26,7 +26,7 @@ graphite-web==0.9.12
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==3.7
+keyring==3.8
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
