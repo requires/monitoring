@@ -52,6 +52,10 @@ pymongo==2.7
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
 pyyaml==3.11
 
+# Requests
+#   Changelog: https://pypi.python.org/pypi/requests/
+requests==2.3.0
+
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
 #   Note: replaces obsolete distribute
