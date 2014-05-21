@@ -28,6 +28,10 @@ graphite-web==0.9.12
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
 keyring==3.8
 
+# LXML
+#   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
+lxml==3.3.5
+
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==1.14.0
