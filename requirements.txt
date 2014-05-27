@@ -16,6 +16,10 @@ django-tastypie==0.11.1
 #   Changelog: http://www.django-rest-framework.org/topics/release-notes
 djangorestframework==2.3.13
 
+# Defused XML
+#   Changelog: https://pypi.python.org/pypi/defusedxml
+defusedxml==0.4.1
+
 # Flask
 #   Changelog: http://flask.pocoo.org/docs/changelog/
 flask==0.10.1
