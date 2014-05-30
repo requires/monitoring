@@ -41,6 +41,10 @@ logilab-common==0.61.0
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
 lxml==3.3.5
 
+# MoinMoin
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
+moin==1.9.7
+
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==1.14.0
