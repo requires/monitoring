@@ -61,6 +61,10 @@ pycrypto==2.6.1
 #   Changelog: http://api.mongodb.org/python/current/changelog.html
 pymongo==2.7.1
 
+# Python Keystoneclient - Client Library for OpenStack Identity
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0105
+python-keystoneclient==0.9.0
+
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
 pyyaml==3.11
