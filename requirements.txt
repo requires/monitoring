@@ -61,6 +61,10 @@ pycrypto==2.6.1
 #   Changelog: http://api.mongodb.org/python/current/changelog.html
 pymongo==2.7.1
 
+# Python Bugzilla
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
+python-bugzilla==1.0.0
+
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
 python-glanceclient==0.12.0
