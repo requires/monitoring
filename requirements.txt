@@ -32,6 +32,10 @@ graphite-web==0.9.12
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
 keyring==3.8
 
+# Logilab Common
+#   CVE: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
+logilab-common==0.61.0
+
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
 lxml==3.3.5
