@@ -33,7 +33,8 @@ graphite-web==0.9.12
 keyring==3.8
 
 # Logilab Common
-#   CVE: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1838
 logilab-common==0.61.0
 
 # LXML
