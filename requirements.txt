@@ -69,6 +69,10 @@ pyyaml==3.11
 #   Changelog: https://pypi.python.org/pypi/requests/
 requests==2.3.0
 
+# Rply
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
+rply==0.7.2
+
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
 #   Note: replaces obsolete distribute
