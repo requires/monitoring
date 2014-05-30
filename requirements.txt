@@ -65,6 +65,10 @@ pymongo==2.7.1
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0105
 python-keystoneclient==0.9.0
 
+# Python Swiftclient
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6396
+python-swiftclient==2.1.0
+
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
 pyyaml==3.11
