@@ -1,3 +1,7 @@
+# Beaker
+#   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
+beaker==1.6.4
+
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
 celery==3.1.11
