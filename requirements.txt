@@ -120,6 +120,10 @@ sqlalchemy==0.9.4
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
 tornado==3.2.1
 
+# Tryton
+#   News: http://www.tryton.org/news/index.html
+tryton==3.2.1
+
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
 tweepy==2.3
