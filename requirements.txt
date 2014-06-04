@@ -118,7 +118,7 @@ sqlalchemy==0.9.4
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==3.2.1
+tornado==3.2.2
 
 # Tryton
 #   News: http://www.tryton.org/news/index.html
