@@ -8,7 +8,7 @@ beaker==1.6.4
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
-celery==3.1.11
+celery==3.1.12
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
@@ -83,7 +83,7 @@ pymongo==2.7.1
 
 # Python Bugzilla
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
-python-bugzilla==1.0.0
+python-bugzilla==1.1.0
 
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
