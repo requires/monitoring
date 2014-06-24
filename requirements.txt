@@ -112,12 +112,12 @@ rply==0.7.2
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
 #   Note: replaces obsolete distribute
-setuptools==5.1
+setuptools==5.2
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==0.9.4
+sqlalchemy==0.9.6
 
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
