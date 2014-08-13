@@ -120,9 +120,9 @@ setuptools==5.4.2
 sqlalchemy==0.9.7
 
 # Tornado
-#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
+#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==4.0
+tornado==4.0.1
 
 # Tryton
 #   News: http://www.tryton.org/news/index.html
