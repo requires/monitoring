@@ -59,10 +59,8 @@ moin==1.9.7
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==1.14.0
-paramiko==1.13.1    # rq.filter: >=1.13, <1.14
-paramiko==1.12.4    # rq.filter: >=1.12, <1.13
-paramiko==1.11.6    # rq.filter: >=1.11, <1.12
+paramiko==1.14.1
+paramiko==1.13.2    # rq.filter: >=1.13, <1.14
 
 # Pillow
 #   Changelog: https://github.com/python-imaging/Pillow/blob/master/CHANGES.rst
