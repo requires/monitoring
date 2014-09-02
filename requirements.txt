@@ -12,7 +12,8 @@ celery==3.1.13
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==1.6.6
+django==1.7
+django==1.6.6   # rq.filter: >=1.6, <1.7
 django==1.5.9   # rq.filter: >=1.5, <1.6
 django==1.4.14  # rq.filter: >=1.4, <1.5
 
