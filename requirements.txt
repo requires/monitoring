@@ -86,7 +86,7 @@ python-bugzilla==1.1.0
 
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
-python-glanceclient==0.13.1
+python-glanceclient==0.14.0
 
 # Python Keystone Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0105
