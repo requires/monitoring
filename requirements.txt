@@ -102,7 +102,7 @@ pyyaml==3.11
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.4.0
+requests==2.4.1
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
