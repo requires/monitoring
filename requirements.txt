@@ -23,7 +23,7 @@ eyeD3==0.7.5
 
 # Tastypie
 #   Changelog: https://django-tastypie.readthedocs.org/en/latest/release_notes/index.html
-django-tastypie==0.11.1
+django-tastypie==0.12.0
 
 # Django REST framework
 #   Changelog: http://www.django-rest-framework.org/topics/release-notes
