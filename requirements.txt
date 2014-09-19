@@ -60,8 +60,8 @@ moin==1.9.7
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==1.14.1
-paramiko==1.13.2    # rq.filter: >=1.13, <1.14
+paramiko==1.15.0
+paramiko==1.14.1    # rq.filter: >=1.14, <1.15
 
 # Pillow
 #   Changelog: https://github.com/python-imaging/Pillow/blob/master/CHANGES.rst
@@ -94,7 +94,7 @@ python-keystoneclient==0.10.1
 
 # Python Swift Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6396
-python-swiftclient==2.2.0
+python-swiftclient==2.3.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
@@ -111,7 +111,7 @@ rply==0.7.2
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
 #   Note: replaces obsolete distribute
-setuptools==5.7
+setuptools==5.8
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
