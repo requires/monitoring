@@ -60,7 +60,7 @@ moin==1.9.7
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==1.15.0
+paramiko==1.15.1
 paramiko==1.14.1    # rq.filter: >=1.14, <1.15
 
 # Pillow
