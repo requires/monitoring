@@ -64,9 +64,8 @@ paramiko==1.15.1
 paramiko==1.14.1    # rq.filter: >=1.14, <1.15
 
 # Pillow
-#   Changelog: https://github.com/python-imaging/Pillow/blob/master/CHANGES.rst
 #   Note: replaces obsolete PIL
-pillow==2.5.3
+pillow==2.6.0
 
 # PyCrypto - The Python Cryptography Toolkit
 #   Changelog: https://www.dlitz.net/software/pycrypto/
