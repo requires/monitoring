@@ -56,7 +56,7 @@ lxml==3.4.0
 
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
-moin==1.9.7
+moin==1.9.8
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
