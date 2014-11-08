@@ -129,11 +129,11 @@ tornado==4.0.2
 #   News: http://www.tryton.org/news/index.html
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 tryton==3.4.0
-tryton==3.2.4     # rq.filter: >=3.2, <3.4
-tryton==3.0.7     # rq.filter: >=3.0, <3.2
-tryton==2.8.10    # rq.filter: >=2.8, <3.0
-tryton==2.6.13    # rq.filter: >=2.6, <2.8
-tryton==2.4.15    # rq.filter: >=2.4, <2.6
+tryton==3.2.5     # rq.filter: >=3.2, <3.4
+tryton==3.0.8     # rq.filter: >=3.0, <3.2
+tryton==2.8.11    # rq.filter: >=2.8, <3.0
+tryton==2.6.14    # rq.filter: >=2.6, <2.8
+tryton==2.4.16    # rq.filter: >=2.4, <2.6
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
