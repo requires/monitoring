@@ -104,7 +104,7 @@ pyyaml==3.11
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.4.3
+requests==2.5.0
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
@@ -137,4 +137,4 @@ tryton==2.4.16    # rq.filter: >=2.4, <2.6
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
-tweepy==3.0
+tweepy==3.1
