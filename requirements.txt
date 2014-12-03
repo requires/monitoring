@@ -108,7 +108,7 @@ requests==2.5.0
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
-rply==0.7.2
+rply==0.7.3
 
 # Setuptools
 #   Changelog: https://pypi.python.org/pypi/setuptools/#changes
