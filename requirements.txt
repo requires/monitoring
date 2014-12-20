@@ -69,8 +69,8 @@ moin==1.9.8
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==1.15.1
-paramiko==1.14.1    # rq.filter: >=1.14, <1.15
+paramiko==1.15.2
+paramiko==1.14.2    # rq.filter: >=1.14, <1.15
 
 # Pillow
 #   Note: replaces obsolete PIL
