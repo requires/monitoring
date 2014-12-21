@@ -54,6 +54,11 @@ graphite-web==0.9.12
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
 keyring==4.0
 
+# OpenStack Keystone Middleware
+#   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
+#   CVE-2014-7144
+keystonemiddleware==1.3.0
+
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1838
