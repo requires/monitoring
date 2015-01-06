@@ -130,9 +130,9 @@ requests==2.5.1
 rply==0.7.3
 
 # Setuptools
-#   Changelog: https://pypi.python.org/pypi/setuptools/#changes
+#   Changelog: http://pythonhosted.org//setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==11.0
+setuptools==11.3
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
