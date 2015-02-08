@@ -4,7 +4,7 @@ backports.ssl_match_hostname==3.4.0.2
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
-beaker==1.6.4
+beaker==1.6.5
 
 # Bottle
 #   CVE-2014-3137
