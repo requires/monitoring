@@ -57,7 +57,7 @@ keyring==5.3
 # OpenStack Keystone Middleware
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
 #   CVE-2014-7144
-keystonemiddleware==1.4.0
+keystonemiddleware==1.5.0
 
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
