@@ -135,7 +135,7 @@ rply==0.7.3
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==14.0
+setuptools==14.3
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
