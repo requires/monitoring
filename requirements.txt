@@ -104,7 +104,7 @@ python-bugzilla==1.1.0
 
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
-python-glanceclient==0.16.1
+python-glanceclient==0.17.0
 
 # Python GnuPG
 #   CVE-2014-1929
