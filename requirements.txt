@@ -113,6 +113,10 @@ python-glanceclient==0.17.0
 #   CVE-2013-7323
 python-gnupg==0.3.7
 
+# Python JWT
+#   https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/
+python_jwt==1.0.0
+
 # Python Keystone Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0105
 python-keystoneclient==1.3.0
