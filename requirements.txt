@@ -3,7 +3,7 @@
 backports.ssl_match_hostname==3.4.0.2
 
 # Bcrypt
-bcrypt==1.1.1
+bcrypt==2.0.0
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
