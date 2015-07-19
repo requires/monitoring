@@ -125,7 +125,7 @@ python-keystoneclient==1.6.0
 
 # Python Swift Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6396
-python-swiftclient==2.4.0
+python-swiftclient==2.5.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
