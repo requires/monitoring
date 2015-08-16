@@ -166,4 +166,4 @@ tryton==2.6.16    # rq.filter: >=2.6, <2.8
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
-tweepy==3.3.0
+tweepy==3.4.0
