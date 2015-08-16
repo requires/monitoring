@@ -55,7 +55,7 @@ graphite-web==0.9.13
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==5.3
+keyring==5.4
 
 # OpenStack Keystone Middleware
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
