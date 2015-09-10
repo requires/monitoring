@@ -137,7 +137,7 @@ requests==2.7.0
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
-rply==0.7.3
+rply==0.7.4
 
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
