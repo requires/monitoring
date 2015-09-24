@@ -100,7 +100,7 @@ pymongo==3.0.3
 
 # Python Bugzilla
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
-python-bugzilla==1.2.1
+python-bugzilla==1.2.2
 
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
