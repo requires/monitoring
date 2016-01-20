@@ -144,6 +144,10 @@ requests==2.9.1
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
 rply==0.7.4
 
+# Python-RSA
+#   CVE-2016-1494
+rsa==3.3
+
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
