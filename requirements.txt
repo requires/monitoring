@@ -101,7 +101,7 @@ pyfribidi==0.11.0
 
 # PyMongo
 #   Changelog: http://api.mongodb.org/python/current/changelog.html
-pymongo==3.2
+pymongo==3.2.1
 
 # Python Bugzilla
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
