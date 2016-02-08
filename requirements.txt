@@ -21,8 +21,8 @@ celery==3.1.20
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==1.9.1
-django==1.8.8   # rq.filter: >=1.8, <1.9
+django==1.9.2
+django==1.8.9   # rq.filter: >=1.8, <1.9
 
 # Djblets
 #   -> CVE-2014-3995
