@@ -74,7 +74,7 @@ logilab-common==1.2.0
 
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
-lxml==3.5.0
+lxml==3.6.0
 
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
