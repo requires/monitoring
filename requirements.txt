@@ -3,6 +3,7 @@
 backports.ssl_match_hostname==3.5.0.1
 
 # Bcrypt
+#   3.1.0: Fixed a regression where $2a hashes were vulnerable to a wraparound bug.
 bcrypt==3.1.0
 
 # Beaker
