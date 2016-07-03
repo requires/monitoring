@@ -3,7 +3,7 @@
 backports.ssl_match_hostname==3.5.0.1
 
 # Bcrypt
-bcrypt==2.0.0
+bcrypt==3.1.0
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
@@ -50,7 +50,7 @@ defusedxml==0.4.1
 
 # Flask
 #   Changelog: http://flask.pocoo.org/docs/changelog/
-flask==0.11
+flask==0.11.1
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
