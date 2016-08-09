@@ -26,8 +26,8 @@ cryptography==1.4
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==1.10rc1
-django==1.9.8    # rq.filter: >=1.9, <1.10
+django==1.10
+django==1.9.9    # rq.filter: >=1.9, <1.10
 django==1.8.14   # rq.filter: >=1.8, <1.9
 
 # Djblets
