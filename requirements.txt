@@ -140,7 +140,7 @@ python-swiftclient==3.0.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
-pyyaml==3.11
+pyyaml==3.12
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
