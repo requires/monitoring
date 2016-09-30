@@ -22,7 +22,7 @@ celery==3.1.23
 
 # PyCA - Cryptography
 #   Changelog: https://github.com/pyca/cryptography/blob/master/CHANGELOG.rst
-cryptography==1.5.1
+cryptography==1.5.2
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
