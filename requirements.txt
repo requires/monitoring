@@ -133,7 +133,7 @@ python_jwt==1.2.1
 # Python Keystone Client
 #   CVE-2014-0105
 #   CVE-2015-1852
-python-keystoneclient==3.5.0
+python-keystoneclient==3.6.0
 
 # Python Swift Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6396
