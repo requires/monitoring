@@ -163,7 +163,7 @@ setuptools==28.6.0
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.1.1
+sqlalchemy==1.1.2
 sqlalchemy==1.0.15    # rq.filter: >=1.0, <1.1
 
 # Tornado
