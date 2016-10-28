@@ -8,7 +8,7 @@ bcrypt==3.1.1
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
-beaker==1.8.0
+beaker==1.8.1
 
 # Bottle
 #   CVE-2014-3137
