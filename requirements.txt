@@ -12,9 +12,8 @@ beaker==1.8.1
 
 # Bottle
 #   CVE-2014-3137
-bottle==0.12.11
-bottle==0.11.7   # rq.filter: >=0.11, <0.12
-bottle==0.10.12  # rq.filter: >=0.10, <0.11
+#   CVE-2016-9964
+bottle==0.12.13
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
