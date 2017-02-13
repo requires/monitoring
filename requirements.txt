@@ -48,7 +48,7 @@ djangorestframework==3.5.3
 
 # Defused XML
 #   Changelog: https://pypi.python.org/pypi/defusedxml
-defusedxml==0.4.1
+defusedxml==0.5.0
 
 # Flask
 #   Changelog: http://flask.pocoo.org/docs/changelog/
