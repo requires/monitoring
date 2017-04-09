@@ -4,7 +4,7 @@ backports.ssl_match_hostname==3.5.0.1
 
 # Bcrypt
 #   3.1.0: Fixed a regression where $2a hashes were vulnerable to a wraparound bug.
-bcrypt==3.1.2
+bcrypt==3.1.3
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
@@ -22,21 +22,21 @@ celery==3.1.25    # rq.filter: >=3.1, <4.0
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
-cryptography==1.7.2
+cryptography==1.8.1
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==1.10.5
-django==1.9.12   # rq.filter: >=1.9, <1.10
-django==1.8.17   # rq.filter: >=1.8, <1.9
+django==1.11
+django==1.9.13   # rq.filter: >=1.9, <1.10
+django==1.8.18   # rq.filter: >=1.8, <1.9
 
 # Djblets
 #   -> CVE-2014-3995
-djblets==0.9.5
+djblets==0.9.6
 
 # eyeD3
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1934
-eyeD3==0.7.10
+eyeD3==0.7.11
 
 # Tastypie
 #   Changelog: https://django-tastypie.readthedocs.org/en/latest/release_notes/index.html
@@ -44,7 +44,7 @@ django-tastypie==0.13.3
 
 # Django REST framework
 #   Changelog: http://www.django-rest-framework.org/topics/release-notes
-djangorestframework==3.5.4
+djangorestframework==3.6.2
 
 # Defused XML
 #   Changelog: https://pypi.python.org/pypi/defusedxml
@@ -52,7 +52,7 @@ defusedxml==0.5.0
 
 # Flask
 #   Changelog: http://flask.pocoo.org/docs/changelog/
-flask==0.12
+flask==0.12.1
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
@@ -61,26 +61,26 @@ graphite-web==0.9.15
 # Ironic Inspector
 #   CVE-2015-5306
 #   https://bugs.launchpad.net/ironic-inspector/+bug/1506419
-ironic-inspector==4.2.1
+ironic-inspector==5.1.0
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==10.2
+keyring==10.3.1
 
 # OpenStack Keystone Middleware
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
 #   CVE-2014-7144
 #   CVE-2015-1852
-keystonemiddleware==4.14.0
+keystonemiddleware==4.15.0
 
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1838
-logilab-common==1.3.0
+logilab-common==1.4.0
 
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
-lxml==3.7.2
+lxml==3.7.3
 
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
@@ -89,15 +89,15 @@ moin==1.9.9
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==2.1.1
-paramiko==2.0.4     # rq.filter: >=2.0, <2.1
-paramiko==1.18.1    # rq.filter: >=1.18, <2
-paramiko==1.17.3    # rq.filter: >=1.17, <1.18
+paramiko==2.1.2
+paramiko==2.0.5     # rq.filter: >=2.0, <2.1
+paramiko==1.18.2    # rq.filter: >=1.18, <2
+paramiko==1.17.4    # rq.filter: >=1.17, <1.18
 
 # Pillow
 #   Note: replaces obsolete PIL
 #   https://www.djangoproject.com/weblog/2015/jan/02/pillow-security-release/
-pillow==4.0.0
+pillow==4.1.0
 
 # PyCrypto - The Python Cryptography Toolkit
 #   Changelog: https://www.dlitz.net/software/pycrypto/
@@ -113,7 +113,7 @@ pymongo==3.4.0
 
 # Python Bugzilla
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
-python-bugzilla==2.0.0
+python-bugzilla==2.1.0
 
 # Python Glance Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-4111
@@ -159,38 +159,38 @@ rsa==3.4.2
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==34.2.0
+setuptools==34.4.0
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.1.5
+sqlalchemy==1.1.9
 sqlalchemy==1.0.17    # rq.filter: >=1.0, <1.1
 
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==4.4.2
+tornado==4.4.3
 
 # Tryton
 #   News: http://www.tryton.org/news/index.html
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 #   CVE-2015-0861
-tryton==4.2.3
-tryton==4.0.8     # rq.filter: >=4.0, <4.2
-tryton==3.8.13    # rq.filter: >=3.8, <4.0
-tryton==3.6.15    # rq.filter: >=3.6, <3.8
-tryton==3.4.15    # rq.filter: >=3.4, <3.6
+tryton==4.2.4
+tryton==4.0.9     # rq.filter: >=4.0, <4.2
+tryton==3.8.14    # rq.filter: >=3.8, <4.0
+tryton==3.6.16    # rq.filter: >=3.6, <3.8
+tryton==3.4.16    # rq.filter: >=3.4, <3.6
 tryton==3.2.20    # rq.filter: >=3.2, <3.4
 
 # Trytond
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
-trytond==4.2.1
-trytond==4.0.6     # rq.filter: >=4.0, <4.2
-trytond==3.8.9     # rq.filter: >=3.8, <4.0
-trytond==3.6.13    # rq.filter: >=3.6, <3.8
-trytond==3.4.15    # rq.filter: >=3.4, <3.6
+trytond==4.2.3
+trytond==4.0.8     # rq.filter: >=4.0, <4.2
+trytond==3.8.11     # rq.filter: >=3.8, <4.0
+trytond==3.6.15    # rq.filter: >=3.6, <3.8
+trytond==3.4.17    # rq.filter: >=3.4, <3.6
 trytond==3.2.18    # rq.filter: >=3.2, <3.4
 
 # Tweepy
