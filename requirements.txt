@@ -72,7 +72,7 @@ keyring==10.3.1
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
 #   CVE-2014-7144
 #   CVE-2015-1852
-keystonemiddleware==4.14.0
+keystonemiddleware==4.15.0
 
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
