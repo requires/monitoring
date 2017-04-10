@@ -66,7 +66,7 @@ ironic-inspector==5.1.0
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==10.3.1
+keyring==10.3.2
 
 # OpenStack Keystone Middleware
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
@@ -182,17 +182,16 @@ tryton==4.0.9     # rq.filter: >=4.0, <4.2
 tryton==3.8.14    # rq.filter: >=3.8, <4.0
 tryton==3.6.16    # rq.filter: >=3.6, <3.8
 tryton==3.4.16    # rq.filter: >=3.4, <3.6
-tryton==3.2.20    # rq.filter: >=3.2, <3.4
 
 # Trytond
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
+#   CVE-2017-0360
 trytond==4.2.3
 trytond==4.0.8     # rq.filter: >=4.0, <4.2
-trytond==3.8.11     # rq.filter: >=3.8, <4.0
+trytond==3.8.11    # rq.filter: >=3.8, <4.0
 trytond==3.6.15    # rq.filter: >=3.6, <3.8
 trytond==3.4.17    # rq.filter: >=3.4, <3.6
-trytond==3.2.18    # rq.filter: >=3.2, <3.4
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
