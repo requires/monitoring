@@ -57,7 +57,7 @@ flask==0.12.1
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
-graphite-web==0.9.15
+graphite-web==1.0.0
 
 # Ironic Inspector
 #   CVE-2015-5306
