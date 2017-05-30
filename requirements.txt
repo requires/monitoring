@@ -22,7 +22,7 @@ celery==3.1.25    # rq.filter: >=3.1, <4.0
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
-cryptography==1.8.2
+cryptography==1.9
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
@@ -147,7 +147,7 @@ pyyaml==3.12
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.17.1
+requests==2.17.3
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
