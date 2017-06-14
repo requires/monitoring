@@ -90,7 +90,7 @@ moin==1.9.9
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==2.2.0
+paramiko==2.2.1
 paramiko==2.0.6     # rq.filter: >=2.0, <2.1
 paramiko==1.18.3    # rq.filter: >=1.18, <2
 paramiko==1.17.5    # rq.filter: >=1.17, <1.18
@@ -147,7 +147,7 @@ pyyaml==3.12
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.17.3
+requests==2.18.1
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
