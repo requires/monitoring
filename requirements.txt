@@ -188,7 +188,7 @@ tryton==3.4.17    # rq.filter: >=3.4, <3.6
 #   CVE-2015-0861
 #   CVE-2017-0360
 trytond==4.4.2
-trytond==4.0.9     # rq.filter: >=4.0, <4.2
+trytond==4.0.10     # rq.filter: >=4.0, <4.2
 trytond==3.8.12    # rq.filter: >=3.8, <4.0
 trytond==3.6.16    # rq.filter: >=3.6, <3.8
 trytond==3.4.18    # rq.filter: >=3.4, <3.6
