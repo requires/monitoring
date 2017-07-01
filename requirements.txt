@@ -98,7 +98,7 @@ paramiko==1.17.5    # rq.filter: >=1.17, <1.18
 # Pillow
 #   Note: replaces obsolete PIL
 #   https://www.djangoproject.com/weblog/2015/jan/02/pillow-security-release/
-pillow==4.1.1
+pillow==4.2.0
 
 # PyCrypto - The Python Cryptography Toolkit
 #   Changelog: https://www.dlitz.net/software/pycrypto/
