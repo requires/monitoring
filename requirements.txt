@@ -57,6 +57,7 @@ flask==0.12.1
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
+#   http://graphite.readthedocs.io/en/latest/releases/1_0_0.html#security-notes
 graphite-web==0.9.15
 
 # Ironic Inspector
