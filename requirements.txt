@@ -132,7 +132,7 @@ python-gnupg==0.4.1
 
 # Python JWT
 #   https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/
-python_jwt==2.0.1
+python-jwt==2.0.2
 
 # Python Keystone Client
 #   CVE-2014-0105
@@ -162,7 +162,7 @@ rsa==3.4.2
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==36.0.1
+setuptools==36.2.0
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
