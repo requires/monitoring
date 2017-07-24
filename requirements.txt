@@ -17,7 +17,7 @@ bottle==0.12.13
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
-celery==4.0.2
+celery==4.1.0
 celery==3.1.25    # rq.filter: >=3.1, <4.0
 
 # PyCA - Cryptography
@@ -167,8 +167,8 @@ setuptools==36.2.2
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.1.11
-sqlalchemy==1.0.17    # rq.filter: >=1.0, <1.1
+sqlalchemy==1.1.12
+sqlalchemy==1.0.18    # rq.filter: >=1.0, <1.1
 
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
