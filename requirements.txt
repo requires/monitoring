@@ -63,7 +63,7 @@ graphite-web==1.0.2
 # Ironic Inspector
 #   CVE-2015-5306
 #   https://bugs.launchpad.net/ironic-inspector/+bug/1506419
-ironic-inspector==5.1.0
+ironic-inspector==6.0.0
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
