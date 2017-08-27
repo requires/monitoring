@@ -173,7 +173,7 @@ sqlalchemy==1.0.19    # rq.filter: >=1.0, <1.1
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==4.5.1
+tornado==4.5.2
 
 # Tryton
 #   News: http://www.tryton.org/news/index.html
