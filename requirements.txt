@@ -192,7 +192,7 @@ sqlalchemy==1.0.19    # rq.filter: >=1.0, <1.1
 
 # Tablib
 #  CVE-2017-2810
-tablib==0.11.4
+tablib==0.12.1
 
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
