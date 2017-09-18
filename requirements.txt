@@ -104,8 +104,8 @@ moin==1.9.9
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==2.2.1
 paramiko==2.1.3     # rq.filter: >=2.1,  <2.2
-paramiko==2.0.6     # rq.filter: >=2.0,  <2.1
-paramiko==1.18.3    # rq.filter: >=1.18, <2
+paramiko==2.0.7     # rq.filter: >=2.0,  <2.1
+paramiko==1.18.4    # rq.filter: >=1.18, <2
 paramiko==1.17.5    # rq.filter: >=1.17, <1.18
 
 # Pillow
