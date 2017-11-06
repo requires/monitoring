@@ -52,7 +52,7 @@ django-tastypie==0.14.0
 
 # Django REST framework
 #   Changelog: http://www.django-rest-framework.org/topics/release-notes
-djangorestframework==3.7.1
+djangorestframework==3.7.2
 
 # Defused XML
 #   Changelog: https://pypi.python.org/pypi/defusedxml
