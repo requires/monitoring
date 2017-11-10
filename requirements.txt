@@ -186,7 +186,7 @@ rsa==3.4.2
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==36.6.0
+setuptools==36.6.1
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
