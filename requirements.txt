@@ -26,7 +26,7 @@ celery==3.1.25    # rq.filter: >=3.1, <4.0
 
 # Cloudflare Scrape
 #   CVE-2017-7235
-cfscrape==1.9.0
+cfscrape==1.9.1
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
