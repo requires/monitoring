@@ -115,7 +115,7 @@ paramiko==1.18.4    # rq.filter: >=1.18, <2
 # Pillow
 #   Note: replaces obsolete PIL
 #   https://www.djangoproject.com/weblog/2015/jan/02/pillow-security-release/
-pillow==4.3.0
+pillow==5.0.0
 
 # Plone
 #   CVE-2017-5524
