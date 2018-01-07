@@ -78,7 +78,7 @@ ironic-inspector==6.1.0
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==10.5.1
+keyring==10.6.0
 
 # OpenStack Keystone Middleware
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=keystonemiddleware
