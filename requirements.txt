@@ -201,7 +201,7 @@ tablib==0.12.1
 # Tornado
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tornado
 #   Changelog: http://www.tornadoweb.org/en/stable/releases.html
-tornado==4.5.3
+tornado==5.0
 
 # Tryton
 #   News: http://www.tryton.org/news/index.html
