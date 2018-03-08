@@ -186,12 +186,12 @@ rsa==3.4.2
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==38.5.1
+setuptools==38.5.2
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.2.4
+sqlalchemy==1.2.5
 sqlalchemy==1.0.19    # rq.filter: >=1.0, <1.1
 
 # Tablib
