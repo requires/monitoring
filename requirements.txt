@@ -119,7 +119,7 @@ pillow==5.0.0
 
 # Plone
 #   CVE-2017-5524
-plone==5.1.0
+plone==5.1.1
 plone==4.3.17    # rq.filter: >=4, <5
 
 # priority
