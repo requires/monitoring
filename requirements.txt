@@ -152,7 +152,7 @@ python-glanceclient==2.9.1
 #   CVE-2014-1928
 #   CVE-2014-1927
 #   CVE-2013-7323
-python-gnupg==0.4.1
+python-gnupg==0.4.2
 
 # Python JWT
 #   https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/
