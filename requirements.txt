@@ -93,7 +93,7 @@ keystonemiddleware==5.1.0
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1838
-logilab-common==1.4.1
+logilab-common==1.4.2
 
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
