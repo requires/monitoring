@@ -173,7 +173,7 @@ python-swiftclient==3.5.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
-pyyaml==4.1
+pyyaml==3.13
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
@@ -195,7 +195,7 @@ setuptools==40.0.0
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.2.9
+sqlalchemy==1.2.10
 sqlalchemy==1.0.19    # rq.filter: >=1.0, <1.1
 
 # Tablib
