@@ -212,7 +212,7 @@ tornado==5.1
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 #   CVE-2015-0861
 tryton==4.8.4
-tryton==4.2.15     # rq.filter: >=4.2, <4.4
+tryton==4.2.16     # rq.filter: >=4.2, <4.4
 tryton==4.0.18    # rq.filter: >=4.0, <4.2
 tryton==3.8.21    # rq.filter: >=3.8, <4.0
 tryton==3.6.20    # rq.filter: >=3.6, <3.8
