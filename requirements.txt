@@ -222,7 +222,7 @@ tryton==3.4.17    # rq.filter: >=3.4, <3.6
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
 #   CVE-2017-0360
-trytond==4.8.2
+trytond==4.8.3
 trytond==4.2.13     # rq.filter: >=4.2, <4.4
 trytond==4.0.17    # rq.filter: >=4.0, <4.2
 trytond==3.8.18    # rq.filter: >=3.8, <4.0
