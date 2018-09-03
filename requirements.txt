@@ -160,7 +160,7 @@ python-gnupg==0.4.3
 
 # Python JWT
 #   https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/
-python-jwt==3.2.0
+python-jwt==3.2.1
 
 # Python Keystone Client
 #   CVE-2014-0105
