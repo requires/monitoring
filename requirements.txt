@@ -34,8 +34,8 @@ cryptography==2.3.1
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==2.1.1
-django==1.11.15  # rq.filter: >=1.11, <2.0
+django==2.1.2
+django==1.11.16  # rq.filter: >=1.11, <2.0
 django==1.8.19   # rq.filter: >=1.8,  <1.9
 
 # Djblets
@@ -211,7 +211,7 @@ tornado==5.1.1
 #   News: http://www.tryton.org/news/index.html
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 #   CVE-2015-0861
-tryton==4.8.6
+tryton==5.0.0
 tryton==4.2.18     # rq.filter: >=4.2, <4.4
 tryton==4.0.21    # rq.filter: >=4.0, <4.2
 tryton==3.8.21    # rq.filter: >=3.8, <4.0
@@ -222,7 +222,7 @@ tryton==3.4.17    # rq.filter: >=3.4, <3.6
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
 #   CVE-2017-0360
-trytond==4.8.4
+trytond==5.0.0
 trytond==4.2.15     # rq.filter: >=4.2, <4.4
 trytond==4.0.19    # rq.filter: >=4.0, <4.2
 trytond==3.8.18    # rq.filter: >=3.8, <4.0
