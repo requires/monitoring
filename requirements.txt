@@ -177,6 +177,7 @@ pyyaml==3.13
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
+#   CVE-2018-18074
 requests==2.20.1
 
 # Rply
