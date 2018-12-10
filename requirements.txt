@@ -178,7 +178,7 @@ pyyaml==3.13
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
 #   CVE-2018-18074
-requests==2.20.1
+requests==2.21.0
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
