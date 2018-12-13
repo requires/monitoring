@@ -17,7 +17,7 @@ bleach==3.0.2
 # Bottle
 #   CVE-2014-3137
 #   CVE-2016-9964
-bottle==0.12.15
+bottle==0.12.16
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
