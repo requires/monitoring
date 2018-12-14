@@ -236,4 +236,5 @@ tweepy==3.5.0
 
 # urllib3
 #   CVE-2016-9015
-urllib3==1.22
+#   CVE-2018-20060
+urllib3==1.24.1
