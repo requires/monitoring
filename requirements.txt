@@ -35,7 +35,7 @@ cryptography==2.4.2
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
 django==2.1.5
-django==1.11.17  # rq.filter: >=1.11, <2.0
+django==1.11.18  # rq.filter: >=1.11, <2.0
 django==1.8.19   # rq.filter: >=1.8,  <1.9
 
 # Djblets
@@ -97,7 +97,7 @@ logilab-common==1.4.2
 
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
-lxml==4.2.6
+lxml==4.3.0
 
 # Mercurial
 #   CVE-2017-9462
