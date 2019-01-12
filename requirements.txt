@@ -1,6 +1,6 @@
 # The ssl.match_hostname() function from Python 3.4
 #   https://bitbucket.org/brandon/backports.ssl_match_hostname/commits/698cd6dcca10addb922f5c74412151efb075cae2
-backports.ssl_match_hostname==3.5.0.1
+backports.ssl-match-hostname==3.7.0.1
 
 # Bcrypt
 #   3.1.0: Fixed a regression where $2a hashes were vulnerable to a wraparound bug.
