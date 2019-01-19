@@ -114,7 +114,6 @@ paramiko==2.3.3     # rq.filter: >=2.3,  <2.4
 paramiko==2.2.4     # rq.filter: >=2.2,  <2.3
 paramiko==2.1.6     # rq.filter: >=2.1,  <2.2
 paramiko==2.0.9     # rq.filter: >=2.0,  <2.1
-paramiko==1.18.5    # rq.filter: >=1.18, <2
 
 # Pillow
 #   Note: replaces obsolete PIL
