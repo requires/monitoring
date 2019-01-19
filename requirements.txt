@@ -22,7 +22,6 @@ bottle==0.12.16
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
 celery==4.2.1
-celery==3.1.26.post2    # rq.filter: >=3.1, <4.0
 
 # Cloudflare Scrape
 #   CVE-2017-7235
@@ -35,8 +34,8 @@ cryptography==2.4.2
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
 django==2.1.5
+django==2.0.10   # rq.filter: >=2.0, <2.1
 django==1.11.18  # rq.filter: >=1.11, <2.0
-django==1.8.19   # rq.filter: >=1.8,  <1.9
 
 # Djblets
 #   -> CVE-2014-3995
@@ -101,7 +100,7 @@ lxml==4.3.0
 
 # Mercurial
 #   CVE-2017-9462
-Mercurial==
+Mercurial==4.8.2
 
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
@@ -111,6 +110,7 @@ moin==1.9.10
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
 paramiko==2.4.2
+paramiko==2.3.3     # rq.filter: >=2.3,  <2.4
 paramiko==2.2.4     # rq.filter: >=2.2,  <2.3
 paramiko==2.1.6     # rq.filter: >=2.1,  <2.2
 paramiko==2.0.9     # rq.filter: >=2.0,  <2.1
@@ -213,22 +213,26 @@ tornado==5.1.1
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 #   CVE-2015-0861
 tryton==5.0.4
-tryton==4.2.20     # rq.filter: >=4.2, <4.4
+tryton==4.8.9     # rq.filter: >=4.8, <5.0
+tryton==4.6.14     # rq.filter: >=4.6, <4.8
+tryton==4.4.16    # rq.filter: >=4.4, <4.6
+tryton==4.2.20    # rq.filter: >=4.2, <4.4
 tryton==4.0.22    # rq.filter: >=4.0, <4.2
 tryton==3.8.21    # rq.filter: >=3.8, <4.0
 tryton==3.6.20    # rq.filter: >=3.6, <3.8
-tryton==3.4.17    # rq.filter: >=3.4, <3.6
 
 # Trytond
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
 #   CVE-2017-0360
 trytond==5.0.3
+trytond==4.8.7     # rq.filter: >=4.8, <5.0
+trytond==4.6.11    # rq.filter: >=4.6, <4.8
+trytond==4.4.16    # rq.filter: >=4.4, <4.6
 trytond==4.2.18     # rq.filter: >=4.2, <4.4
 trytond==4.0.20    # rq.filter: >=4.0, <4.2
 trytond==3.8.18    # rq.filter: >=3.8, <4.0
 trytond==3.6.19    # rq.filter: >=3.6, <3.8
-trytond==3.4.18    # rq.filter: >=3.4, <3.6
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
