@@ -181,7 +181,7 @@ requests==2.21.0
 
 # Rply
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1604
-rply==0.7.6
+rply==0.7.7
 
 # Python-RSA
 #   CVE-2016-1494
