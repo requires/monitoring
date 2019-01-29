@@ -39,7 +39,7 @@ django==1.11.18  # rq.filter: >=1.11, <2.0
 
 # Djblets
 #   -> CVE-2014-3995
-djblets==1.0.8
+djblets==1.0.9
 
 # eyeD3
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1934
