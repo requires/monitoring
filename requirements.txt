@@ -25,7 +25,7 @@ celery==4.2.1
 
 # Cloudflare Scrape
 #   CVE-2017-7235
-cfscrape==1.9.5
+cfscrape==1.9.6
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
@@ -172,7 +172,7 @@ python-swiftclient==3.7.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
-pyyaml==3.13
+pyyaml==5.1
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
