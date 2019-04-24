@@ -135,7 +135,7 @@ pycrypto==2.6.1
 
 # Python libfribidi interface
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-1176
-pyfribidi==0.11.0
+pyfribidi==0.12.0
 
 # PyMongo
 #   Changelog: http://api.mongodb.org/python/current/changelog.html
