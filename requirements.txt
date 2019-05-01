@@ -33,7 +33,7 @@ cryptography==2.6.1
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==2.2
+django==2.2.1
 django==2.0.13   # rq.filter: >=2.0, <2.1
 django==1.11.20  # rq.filter: >=1.11, <2.0
 
