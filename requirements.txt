@@ -25,7 +25,7 @@ celery==4.3.0
 
 # Cloudflare Scrape
 #   CVE-2017-7235
-cfscrape==1.9.7
+cfscrape==2.0.0
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
