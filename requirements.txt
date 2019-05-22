@@ -73,7 +73,7 @@ hpack==3.0.0
 # Ironic Inspector
 #   CVE-2015-5306
 #   https://bugs.launchpad.net/ironic-inspector/+bug/1506419
-ironic-inspector==8.2.0
+ironic-inspector==8.2.1
 
 # JSNAPy
 #   CVE-2018-0023
