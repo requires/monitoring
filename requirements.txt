@@ -96,7 +96,7 @@ logilab-common==1.4.2
 
 # LXML
 #   Security: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lxml
-lxml==4.3.3
+lxml==4.3.4
 
 # Mercurial
 #   CVE-2017-9462
