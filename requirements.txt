@@ -211,10 +211,10 @@ tornado==6.0.3
 #   News: http://www.tryton.org/news/index.html
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
 #   CVE-2015-0861
-tryton==5.2.1
-tryton==4.8.16     # rq.filter: >=4.8, <5.0
-tryton==4.6.20     # rq.filter: >=4.6, <4.8
-tryton==4.4.22    # rq.filter: >=4.4, <4.6
+tryton==5.2.2
+tryton==4.8.17     # rq.filter: >=4.8, <5.0
+tryton==4.6.21     # rq.filter: >=4.6, <4.8
+tryton==4.4.23    # rq.filter: >=4.4, <4.6
 tryton==4.2.25    # rq.filter: >=4.2, <4.4
 tryton==4.0.22    # rq.filter: >=4.0, <4.2
 tryton==3.8.21    # rq.filter: >=3.8, <4.0
@@ -224,10 +224,10 @@ tryton==3.6.20    # rq.filter: >=3.6, <3.8
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
 #   CVE-2017-0360
-trytond==5.2.1
-trytond==4.8.12     # rq.filter: >=4.8, <5.0
-trytond==4.6.16    # rq.filter: >=4.6, <4.8
-trytond==4.4.21    # rq.filter: >=4.4, <4.6
+trytond==5.2.2
+trytond==4.8.13     # rq.filter: >=4.8, <5.0
+trytond==4.6.17    # rq.filter: >=4.6, <4.8
+trytond==4.4.22    # rq.filter: >=4.4, <4.6
 trytond==4.2.22    # rq.filter: >=4.2, <4.4
 trytond==4.0.20    # rq.filter: >=4.0, <4.2
 trytond==3.8.18    # rq.filter: >=3.8, <4.0
