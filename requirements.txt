@@ -235,7 +235,7 @@ trytond==3.6.19    # rq.filter: >=3.6, <3.8
 
 # Tweepy
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-5825
-tweepy==3.7.0
+tweepy==3.8.0
 
 # urllib3
 #   CVE-2016-9015
