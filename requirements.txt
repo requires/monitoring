@@ -33,9 +33,9 @@ cryptography==2.7
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-django==2.2.3
+django==2.2.4
 django==2.0.13   # rq.filter: >=2.0, <2.1
-django==1.11.22  # rq.filter: >=1.11, <2.0
+django==1.11.23  # rq.filter: >=1.11, <2.0
 
 # Djblets
 #   -> CVE-2014-3995
