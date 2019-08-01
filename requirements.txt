@@ -224,7 +224,7 @@ tryton==3.6.20    # rq.filter: >=3.6, <3.8
 #   News: http://www.tryton.org/news/index.html
 #   CVE-2015-0861
 #   CVE-2017-0360
-trytond==5.2.3
+trytond==5.2.4
 trytond==4.8.13     # rq.filter: >=4.8, <5.0
 trytond==4.6.17    # rq.filter: >=4.6, <4.8
 trytond==4.4.22    # rq.filter: >=4.4, <4.6
