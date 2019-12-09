@@ -109,7 +109,7 @@ moin==1.9.10
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==2.7.0
+paramiko==2.7.1
 paramiko==2.3.3     # rq.filter: >=2.3,  <2.4
 paramiko==2.2.4     # rq.filter: >=2.2,  <2.3
 paramiko==2.1.6     # rq.filter: >=2.1,  <2.2
