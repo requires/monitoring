@@ -12,7 +12,7 @@ beaker==1.9.0
 
 # Bleach
 #   https://github.com/mozilla/bleach/issues/298
-bleach==3.1.0
+bleach==3.1.1
 
 # Bottle
 #   CVE-2014-3137
