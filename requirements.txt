@@ -21,7 +21,7 @@ bottle==0.12.18
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
-celery==4.4.0
+celery==4.4.1
 
 # Cloudflare Scrape
 #   CVE-2017-7235
