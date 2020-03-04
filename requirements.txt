@@ -100,7 +100,7 @@ lxml==4.5.0
 
 # Mercurial
 #   CVE-2017-9462
-Mercurial==5.3
+Mercurial==5.3.1
 
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
