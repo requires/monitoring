@@ -59,7 +59,7 @@ defusedxml==0.6.0
 
 # Flask
 #   Changelog: http://flask.pocoo.org/docs/changelog/
-flask==1.1.1
+flask==1.1.2
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
