@@ -185,7 +185,7 @@ rply==0.7.7
 
 # Python-RSA
 #   CVE-2016-1494
-rsa==4.1.1
+rsa==4.2
 
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
