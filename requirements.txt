@@ -164,11 +164,11 @@ python-jwt==3.2.6
 # Python Keystone Client
 #   CVE-2014-0105
 #   CVE-2015-1852
-python-keystoneclient==4.0.0
+python-keystoneclient==4.1.0
 
 # Python Swift Client
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6396
-python-swiftclient==3.9.0
+python-swiftclient==3.10.0
 
 # PyYAML
 #   Security: http://www.cvedetails.com/vulnerability-list/vendor_id-13115/year-2014/Pyyaml.html
