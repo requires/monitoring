@@ -68,7 +68,7 @@ graphite-web==1.1.7
 
 # hpack
 #   CVE-2016-6581
-hpack==3.0.0
+hpack==4.0.0
 
 # Ironic Inspector
 #   CVE-2015-5306
