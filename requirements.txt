@@ -109,7 +109,7 @@ moin==1.9.10
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
-paramiko==2.7.1
+paramiko==2.7.2
 paramiko==2.3.3     # rq.filter: >=2.3,  <2.4
 paramiko==2.2.4     # rq.filter: >=2.2,  <2.3
 paramiko==2.1.6     # rq.filter: >=2.1,  <2.2
@@ -190,7 +190,7 @@ rsa==4.6
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==49.6.0
+setuptools==50.0.0
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
