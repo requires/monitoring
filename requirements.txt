@@ -105,7 +105,7 @@ Mercurial==4.8.2
 # MoinMoin
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-6081
 #   https://moinmo.in/SecurityFixes
-moin==1.9.9
+moin==1.9.11
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
