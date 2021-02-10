@@ -29,7 +29,7 @@ cfscrape==2.1.1
 
 # PyCA - Cryptography
 #   Changelog: https://cryptography.io/en/latest/changelog/
-cryptography==3.4.3
+cryptography==3.4.4
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
