@@ -195,7 +195,7 @@ setuptools==54.1.2
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-sqlalchemy==1.4.0
+sqlalchemy==1.4.1
 sqlalchemy==1.0.19    # rq.filter: >=1.0, <1.1
 
 # Tablib
