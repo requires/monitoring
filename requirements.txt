@@ -139,7 +139,7 @@ pyfribidi==0.12.0
 
 # PyMongo
 #   Changelog: http://api.mongodb.org/python/current/changelog.html
-pymongo==3.11.3
+pymongo==3.11.4
 
 # Python Bugzilla
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2191
@@ -190,7 +190,7 @@ rsa==4.7.2
 # Setuptools
 #   Changelog: http://pythonhosted.org/setuptools/history.html
 #   Note: replaces obsolete distribute
-setuptools==56.0.0
+setuptools==56.1.0
 
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
