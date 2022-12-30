@@ -64,7 +64,7 @@ flask==0.12.4
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
 #   http://graphite.readthedocs.io/en/latest/releases/1_0_0.html#security-notes
-graphite-web==1.0.2
+graphite-web==1.1.10
 
 # hpack
 #   CVE-2016-6581
